@@ -26,6 +26,6 @@ func main() {
 		lastName  = "Khaleed"
 	)
 
-	fmt.Println(firstName)
+	fmt.Println(firstName + " " + lastName)
 	fmt.Println(lastName)
 }
